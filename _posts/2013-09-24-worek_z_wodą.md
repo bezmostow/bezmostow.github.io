@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Worek z wodą
+short: W mieście Bezmostów nie pije się wody z kranu. Generalnie. Do roku pięćdziesiatego źródła wody pitnej dla miasta nie było wcale. Znaczy się było, ale oddzielone od ludzi pasem granicznym i gęstym lasem.
 ---
 
 W mieście Bezmostów nie pije się wody z kranu. Generalnie. Do roku pięćdziesiatego źródła wody pitnej dla miasta nie było wcale. Znaczy się było, ale oddzielone od ludzi pasem granicznym i gęstym lasem. 
